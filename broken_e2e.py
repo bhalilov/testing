@@ -4,3 +4,7 @@ def average(values):
 
 def last_value(values):
     return values[len(values)]
+
+
+def first_value(values):
+    return values[1]
