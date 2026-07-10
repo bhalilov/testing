@@ -6,3 +6,8 @@ def calculate_total(values):
 def first_value(values):
     """Return the first value."""
     return values[1]
+
+
+def last_value(values):
+    """Return the last value."""
+    return values[len(values)]
