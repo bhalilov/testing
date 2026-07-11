@@ -1,0 +1,7 @@
+{
+  "appName": "example-app",
+  "environment": "development",
+  "featureFlags": {
+    "newDashboard": false
+  }
+}
